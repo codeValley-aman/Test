@@ -1,2 +1,2 @@
 # Test
-test project
+test repo for git commanda demonstration
